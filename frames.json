@@ -16,7 +16,7 @@
         "metadata": {},
         "lidar": {
           "lidar_pcd_id": "637b608d7e72bf3b4bce24b8",
-          "remote_path": "https://github.com/abeerDL/test/blob/main/lidar/0.pcd",
+          "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/lidar/0.pcd",
           "timestamp": 1638841820.0495460033
         },
         "images": [
@@ -39,7 +39,7 @@
                 }
               }
             },
-            "remote_path": "https://github.com/abeerDL/test/blob/main/frames/0/0.jpg",
+            "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/frames/0/0.jpg",
             "timestamp": 1638841820.1793320179
           },
           {
@@ -61,7 +61,7 @@
                 }
               }
             },
-            "remote_path": "https://github.com/abeerDL/test/blob/main/frames/0/1.jpg",
+            "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/frames/0/1.jpg",
             "timestamp": 1638841820.1979079247
           },
           {
@@ -83,7 +83,7 @@
                 }
               }
             },
-            "remote_path": "https://github.com/abeerDL/test/blob/main/frames/0/2.jpg",
+            "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/frames/0/2.jpg",
             "timestamp": 1638841820.2142138481
           },
           {
@@ -105,7 +105,7 @@
                 }
               }
             },
-            "remote_path": "https://github.com/abeerDL/test/blob/main/frames/0/3.jpg",
+            "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/frames/0/3.jpg",
             "timestamp": 1638841820.1294438839
           },
           {
@@ -127,7 +127,7 @@
                 }
               }
             },
-            "remote_path": "https://github.com/abeerDL/test/blob/main/frames/0/4.jpg",
+            "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/frames/0/4.jpg",
             "timestamp": 1638841820.1466228962
           },
           {
@@ -149,7 +149,7 @@
                 }
               }
             },
-            "remote_path": "https://github.com/abeerDL/test/blob/main/frames/0/5.jpg",
+            "remote_path": "https://raw.githubusercontent.com/abeerDL/test/main/frames/0/5.jpg",
             "timestamp": 1638841820.1637108326
           }
         ],
